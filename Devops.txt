@@ -1,0 +1,4 @@
+Devops is about collaboration between development and operations.
+Good things about Devops: Faster delivery, better quality,improved teamwork,scalibility and continuous improvement.
+career-wise: Devops offers high demand,good salaries, versatile skills, and strong growth opportunities.
+In short: Devops = Speed=Quality+ collaboration+ Growth.
