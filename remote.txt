@@ -1,3 +1,4 @@
 Hi my name is sagar
 I am a DevOps engineer
 I am taking course in staragile
+Devops course helps us to learn both development and operations together.
